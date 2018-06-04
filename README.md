@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 you will need to know the process of creating a connect account , Ideamart account and requesting for a hosting space
-Check @shafrazrahim [tutorial](https://youtu.be/4JLFjWp6mEw)
+Check @pasindud [tutorial](https://www.youtube.com/watch?v=dk2C-UEKoL0)
 
 ## Installing
 
