@@ -1,0 +1,270 @@
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805111749425648, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1495116886, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805111749585736, applicationId=APP_044499, encoding=0, version=1.0, sessionId=214713094, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805111822117684, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1495142829, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805111822167710, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1495142829, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := 
+[ content=11, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805111822247748, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1495142829, ussdOperation=mo-cont ]
+Previous Menu is := Find
+Selected response message := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805140847534375, applicationId=APP_044499, encoding=0, version=1.0, sessionId=217782082, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805140848294543, applicationId=APP_044499, encoding=0, version=1.0, sessionId=217782082, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805140849044665, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497135537, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=2, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805140849134697, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497135537, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805140909040736, applicationId=APP_044499, encoding=0, version=1.0, sessionId=217806349, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805140920493290, applicationId=APP_044499, encoding=0, version=1.0, sessionId=217820225, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805140921113360, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497162807, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805140921193388, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497162807, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805140922093567, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497163635, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805140922153589, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497163635, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805140941297542, applicationId=APP_044499, encoding=0, version=1.0, sessionId=217845331, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141002333685, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497192649, ussdOperation=mo-cont ]
+Previous Menu is := 
+Selected response message := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141016487437, applicationId=APP_044499, encoding=0, version=1.0, sessionId=217889274, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141118473884, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497269146, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141121024445, applicationId=APP_044499, encoding=0, version=1.0, sessionId=217969936, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141121204525, applicationId=APP_044499, encoding=0, version=1.0, sessionId=217969936, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141121474665, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497271841, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=2, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141121594713, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497271841, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Products
+                    1.SDP
+                    2.Soltura
+                    999.Back
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141122244837, applicationId=APP_044499, encoding=0, version=1.0, sessionId=217971658, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141122314858, applicationId=APP_044499, encoding=0, version=1.0, sessionId=217971658, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141127136024, applicationId=APP_044499, encoding=0, version=1.0, sessionId=217977674, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=2, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141127176043, applicationId=APP_044499, encoding=0, version=1.0, sessionId=217977674, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Products
+                    1.SDP
+                    2.Soltura
+                    999.Back
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141143041188, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497290932, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141143101232, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497290932, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141146182104, applicationId=APP_044499, encoding=0, version=1.0, sessionId=218001144, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141146252131, applicationId=APP_044499, encoding=0, version=1.0, sessionId=218001144, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141149373001, applicationId=APP_044499, encoding=0, version=1.0, sessionId=218005183, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141149443034, applicationId=APP_044499, encoding=0, version=1.0, sessionId=218005183, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141150033140, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497297046, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141150103168, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497297046, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141152343860, applicationId=APP_044499, encoding=0, version=1.0, sessionId=218008808, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141152403880, applicationId=APP_044499, encoding=0, version=1.0, sessionId=218008808, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141155464707, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497302237, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141155574762, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497302237, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141206087247, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497311411, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141206137267, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497311411, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141206317342, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497311411, ussdOperation=mo-cont ]
+Previous Menu is := company
+Selected response message := Mr.Dinesh Saparamadu.
+                    999.Back
+[ content=000, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805141206477415, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1497311411, ussdOperation=mo-cont ]
+Previous Menu is := company-hist
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805160841200931, applicationId=APP_044499, encoding=0, version=1.0, sessionId=220328389, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805161505128151, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1499102326, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805161505218184, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1499102326, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805161506088412, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1499102980, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805161506498594, applicationId=APP_044499, encoding=0, version=1.0, sessionId=220741560, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805161507098677, applicationId=APP_044499, encoding=0, version=1.0, sessionId=220741902, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805161515051797, applicationId=APP_044499, encoding=0, version=1.0, sessionId=220750023, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805161517322497, applicationId=APP_044499, encoding=0, version=1.0, sessionId=220752493, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805161518042638, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1499111712, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805161518222727, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1499111926, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805161530255871, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1499120713, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=2, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071805161530315895, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1499120713, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Products
+                    1.SDP
+                    2.Soltura
+                    999.Back
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071806030854476842, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1513320308, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:B%3C4Pn9m7BwcLRBTnbtFpShbi8aplc6TaCcYHJmFgGhrdkFpwU7QxIdTLAP3lHxt8+UW, requestId=071806041628461380, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1514507613, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:B%3C4Pn9m7BwcLRBTnbtFpShbi8aplc6TaCcYHJmFgGhrdkFpwU7QxIdTLAP3lHxt8+UW, requestId=071806041629561709, applicationId=APP_044499, encoding=0, version=1.0, sessionId=243650154, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071806041631212164, applicationId=APP_044499, encoding=0, version=1.0, sessionId=243651696, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071806041631562340, applicationId=APP_044499, encoding=0, version=1.0, sessionId=243652322, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071806041632132418, applicationId=APP_044499, encoding=0, version=1.0, sessionId=243652322, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071806041633192762, applicationId=APP_044499, encoding=0, version=1.0, sessionId=243653796, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071806041633382848, applicationId=APP_044499, encoding=0, version=1.0, sessionId=243654149, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071806041635413491, applicationId=APP_044499, encoding=0, version=1.0, sessionId=243656446, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071806041636193698, applicationId=APP_044499, encoding=0, version=1.0, sessionId=243657137, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071806041649267613, applicationId=APP_044499, encoding=0, version=1.0, sessionId=243671367, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=2, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071806041649317641, applicationId=APP_044499, encoding=0, version=1.0, sessionId=243671367, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Products
+                    1.SDP
+                    2.Soltura
+                    999.Back
+[ content=999, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071806041649557764, applicationId=APP_044499, encoding=0, version=1.0, sessionId=243671367, ussdOperation=mo-cont ]
+Previous Menu is := products
+Selected response message :=   1.Company
+                    2.Products7
+                    3.Careers
+                    000.Exit
+[ content=3, address=tel:A#3B4JzMnQncxyuyUzCEt7fD17v1OO+duRFw+ZENtXouixPTht1pUzOunRikYkj4nUyvI, requestId=071806041650007793, applicationId=APP_044499, encoding=0, version=1.0, sessionId=243671367, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Careers
+                    1.Software Engineer
+                    2.Project Manager
+                    999.Back
+[ content=899, address=tel:B%3C4Pn9m7BwcLRBTnbtFpShbi8aplc6TaCcYHJmFgGhrdkFpwU7QxIdTLAP3lHxt8+UW, requestId=071806041651278231, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1514524745, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:B%3C4Pn9m7BwcLRBTnbtFpShbi8aplc6TaCcYHJmFgGhrdkFpwU7QxIdTLAP3lHxt8+UW, requestId=071806041733232454, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1514557221, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=899, address=tel:B%3C4Pn9m7BwcLRBTnbtFpShbi8aplc6TaCcYHJmFgGhrdkFpwU7QxIdTLAP3lHxt8+UW, requestId=071806041734202695, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1514557961, ussdOperation=mo-init ]
+Previous Menu is := 
+[ content=1, address=tel:B%3C4Pn9m7BwcLRBTnbtFpShbi8aplc6TaCcYHJmFgGhrdkFpwU7QxIdTLAP3lHxt8+UW, requestId=071806041734582865, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1514557961, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back
+[ content=999, address=tel:B%3C4Pn9m7BwcLRBTnbtFpShbi8aplc6TaCcYHJmFgGhrdkFpwU7QxIdTLAP3lHxt8+UW, requestId=071806041736083164, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1514557961, ussdOperation=mo-cont ]
+Previous Menu is := company
+Selected response message := Main menu
+                    1.Company
+                    2.Products
+                    3.Careers
+                    000.Exit
+[ content=3, address=tel:B%3C4Pn9m7BwcLRBTnbtFpShbi8aplc6TaCcYHJmFgGhrdkFpwU7QxIdTLAP3lHxt8+UW, requestId=071806041736513393, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1514557961, ussdOperation=mo-cont ]
+Previous Menu is := main
+Selected response message := Careers
+                    1.Software Engineer
+                    2.Project Manager
+                    999.Back
+[ content=1, address=tel:B%3C4Pn9m7BwcLRBTnbtFpShbi8aplc6TaCcYHJmFgGhrdkFpwU7QxIdTLAP3lHxt8+UW, requestId=071806041737023459, applicationId=APP_044499, encoding=0, version=1.0, sessionId=1514557961, ussdOperation=mo-cont ]
+Previous Menu is := careers
+Selected response message := Java Software Engineer for mobile back end development ( email: careers@hsenidmobile.com )
+                    999.Back
+[ content=899, address=tel:B%3C4Pn9m7BwcLRBTnbtFpShbi8aplc6TaCcYHJmFgGhrdkFpwU7QxIdTLAP3lHxt8+UW, requestId=071806041755248689, applicationId=APP_044499, encoding=0, version=1.0, sessionId=243744712, ussdOperation=mo-init ]
+Previous Menu is := 

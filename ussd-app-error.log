@@ -1,0 +1,429 @@
+[11-May-2018 10:32:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[11-May-2018 10:33:06 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[11-May-2018 10:33:08 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[11-May-2018 10:33:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[11-May-2018 10:46:56 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 76 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 194
+[11-May-2018 10:46:56 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 197
+[11-May-2018 10:46:56 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(214): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', '1.Company\n     ...', '1495049904', 'mt-cont', NULL, '440', '')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(76): loadUssdSender('1495049904', '1.Company\n     ...')
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+//[11-May-2018 11:27:09 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 19
+[11-May-2018 11:27:53 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 19
+//
+[11-May-2018 11:28:46 UTC] PHP Notice:  Undefined index: vlrAddress in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 42
+[11-May-2018 11:28:46 UTC] PHP Fatal error:  Call to undefined function logFile() in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 34
+
+//
+[11-May-2018 11:32:17 UTC] PHP Notice:  Undefined index: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 42
+[11-May-2018 11:32:17 UTC] PHP Fatal error:  Call to undefined function logFile() in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 34
+//[11-May-2018 11:34:36 UTC] PHP Notice:  Undefined index: destinationAddress in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 42
+[11-May-2018 11:34:36 UTC] PHP Fatal error:  Call to undefined function logFile() in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 34
+[11-May-2018 11:35:03 UTC] PHP Notice:  Undefined index: destinationAddress in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 42
+[11-May-2018 11:35:03 UTC] PHP Fatal error:  Call to undefined function logFile() in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 34
+[11-May-2018 11:37:46 UTC] PHP Notice:  Undefined index: destinationAddress in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 42
+[11-May-2018 11:37:46 UTC] PHP Fatal error:  Call to undefined function logFile() in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 34
+[11-May-2018 11:38:08 UTC] PHP Notice:  Undefined index: destinationAddress in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 42
+[11-May-2018 11:38:08 UTC] PHP Fatal error:  Call to undefined function logFile() in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 34
+[11-May-2018 11:39:23 UTC] PHP Fatal error:  Call to undefined function logFile() in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 34
+[11-May-2018 11:41:30 UTC] PHP Fatal error:  Call to undefined function logFile() in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 34
+[11-May-2018 11:43:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[11-May-2018 11:43:04 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[11-May-2018 11:45:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[11-May-2018 11:58:58 UTC] PHP Warning:  include_once(../server.php): failed to open stream: No such file or directory in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 13
+[11-May-2018 11:58:58 UTC] PHP Warning:  include_once(): Failed opening '../server.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 13
+[11-May-2018 11:58:58 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 17
+[11-May-2018 12:00:37 UTC] PHP Warning:  include_once(../server.php): failed to open stream: No such file or directory in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 13
+[11-May-2018 12:00:37 UTC] PHP Warning:  include_once(): Failed opening '../server.php' for inclusion (include_path='.:/usr/share/pear:/usr/share/php') in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 13
+[11-May-2018 12:00:37 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 17
+[11-May-2018 12:01:06 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 17
+[11-May-2018 12:01:08 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 17
+[11-May-2018 12:10:18 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 17
+[11-May-2018 12:10:39 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 17
+[11-May-2018 12:12:56 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 17
+[11-May-2018 12:15:37 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 17
+[11-May-2018 12:16:34 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(17): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[11-May-2018 12:19:28 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(17): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[11-May-2018 12:19:43 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 42
+[11-May-2018 12:19:58 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 42
+[11-May-2018 12:52:12 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 42
+[11-May-2018 12:52:18 UTC] PHP Notice:  Undefined index: Find in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 167
+[11-May-2018 12:52:18 UTC] PHP Notice:  Undefined index: Find in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 168
+[11-May-2018 12:52:18 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 168 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 179
+[11-May-2018 12:52:18 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 182
+[11-May-2018 12:52:18 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 196
+[11-May-2018 12:52:18 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 197
+[11-May-2018 12:52:18 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 201
+[11-May-2018 12:52:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(201): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', NULL, '1495142829', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(168): loadUssdSender('1495142829', NULL)
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[11-May-2018 12:52:25 UTC] PHP Notice:  Undefined variable: locAddress in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 127
+[11-May-2018 12:52:25 UTC] PHP Notice:  Undefined variable: msg in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 138
+[11-May-2018 12:52:27 UTC] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 167
+[11-May-2018 12:52:27 UTC] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 168
+[11-May-2018 12:52:27 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 168 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 179
+[11-May-2018 12:52:27 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 182
+[11-May-2018 12:52:27 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 196
+[11-May-2018 12:52:27 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 197
+[11-May-2018 12:52:27 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 201
+[11-May-2018 12:52:27 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(201): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', NULL, '1495142829', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(168): loadUssdSender('1495142829', NULL)
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 03:17:54 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 42
+[14-May-2018 03:18:31 UTC] PHP Notice:  Undefined index: Find in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 167
+[14-May-2018 03:18:31 UTC] PHP Notice:  Undefined index: Find in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 168
+[14-May-2018 03:18:31 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 168 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 179
+[14-May-2018 03:18:31 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 182
+[14-May-2018 03:18:31 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 196
+[14-May-2018 03:18:31 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 197
+[14-May-2018 03:18:31 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 201
+[14-May-2018 03:18:31 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(201): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', NULL, '217782082', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(168): loadUssdSender('217782082', NULL)
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 03:19:05 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 42
+[14-May-2018 03:19:14 UTC] PHP Notice:  Undefined variable: getPin in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 76
+[14-May-2018 03:19:15 UTC] PHP Notice:  Undefined index: My Pin in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 167
+[14-May-2018 03:19:15 UTC] PHP Notice:  Undefined index: My Pin in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 168
+[14-May-2018 03:19:15 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 168 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 179
+[14-May-2018 03:19:15 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 182
+[14-May-2018 03:19:15 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 196
+[14-May-2018 03:19:15 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 197
+[14-May-2018 03:19:15 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 201
+[14-May-2018 03:19:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(201): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', NULL, '1497135537', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(168): loadUssdSender('1497135537', NULL)
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 03:39:05 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 42
+[14-May-2018 03:50:50 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 42
+[14-May-2018 03:51:12 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 42
+[14-May-2018 03:51:20 UTC] PHP Notice:  Undefined index: company in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 160
+[14-May-2018 03:51:20 UTC] PHP Notice:  Undefined index: company in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 161
+[14-May-2018 03:51:20 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 161 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 172
+[14-May-2018 03:51:20 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 175
+[14-May-2018 03:51:20 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 189
+[14-May-2018 03:51:20 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 190
+[14-May-2018 03:51:20 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 194
+[14-May-2018 03:51:20 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(194): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', NULL, '1497162807', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(161): loadUssdSender('1497162807', NULL)
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 03:52:09 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 42
+[14-May-2018 03:52:16 UTC] PHP Notice:  Undefined index: company in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 160
+[14-May-2018 03:52:16 UTC] PHP Notice:  Undefined index: company in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 161
+[14-May-2018 03:52:16 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 161 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 172
+[14-May-2018 03:52:16 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 175
+[14-May-2018 03:52:16 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 189
+[14-May-2018 03:52:16 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 190
+[14-May-2018 03:52:16 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 194
+[14-May-2018 03:52:16 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(194): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', NULL, '1497163635', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(161): loadUssdSender('1497163635', NULL)
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 04:03:32 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 19
+[14-May-2018 04:04:28 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 19
+[14-May-2018 04:07:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 04:08:14 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 76 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 194
+[14-May-2018 04:08:14 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 197
+[14-May-2018 04:08:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(214): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', '1.Company\n     ...', '1497177879', 'mt-cont', NULL, '440', '')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(76): loadUssdSender('1497177879', '1.Company\n     ...')
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 04:08:48 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 76 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 194
+[14-May-2018 04:08:48 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 197
+[14-May-2018 04:08:48 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(214): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', '1.Company\n     ...', '217842104', 'mt-cont', NULL, '440', '')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(76): loadUssdSender('217842104', '1.Company\n     ...')
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 04:11:17 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(17): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 04:11:30 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 42
+[14-May-2018 04:19:17 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(17): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 04:23:50 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 19
+[14-May-2018 04:24:11 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 19
+[14-May-2018 04:24:34 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 19
+[14-May-2018 04:24:53 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 19
+[14-May-2018 04:25:06 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 19
+[14-May-2018 04:25:09 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 19
+[14-May-2018 04:26:23 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 04:32:34 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[14-May-2018 04:32:34 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 85
+[14-May-2018 04:32:34 UTC] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 184
+[14-May-2018 04:32:34 UTC] PHP Notice:  Undefined index:  in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 185
+[14-May-2018 04:40:04 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 04:45:18 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 19
+[14-May-2018 04:45:37 UTC] PHP Fatal error:  Class 'MoUssdReceiver' not found in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 19
+[14-May-2018 04:46:49 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[14-May-2018 04:46:53 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 04:57:35 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 05:42:50 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 05:48:48 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[14-May-2018 05:48:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 05:49:00 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 05:51:03 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[14-May-2018 05:51:21 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 193 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 202
+[14-May-2018 05:51:21 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 205
+[14-May-2018 05:51:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(222): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', 'Company Details...', '217969936', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(193): loadUssdSender('217969936', 'Company Details...')
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 05:51:48 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[14-May-2018 05:51:51 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 05:51:59 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 193 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 202
+[14-May-2018 05:51:59 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 205
+[14-May-2018 05:51:59 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(222): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', 'Products\n      ...', '1497271841', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(193): loadUssdSender('1497271841', 'Products\n      ...')
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 05:52:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 05:52:24 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 05:52:25 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[14-May-2018 05:52:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 05:52:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 05:52:32 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 193 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 202
+[14-May-2018 05:52:32 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 205
+[14-May-2018 05:52:32 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(222): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', 'Company Details...', '217971658', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(193): loadUssdSender('217971658', 'Company Details...')
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 05:57:14 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[14-May-2018 05:57:18 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 195 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 204
+[14-May-2018 05:57:18 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 207
+[14-May-2018 05:57:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(224): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', 'Products\n      ...', '217977674', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(195): loadUssdSender('217977674', 'Products\n      ...')
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 06:10:01 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[14-May-2018 06:13:04 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[14-May-2018 06:13:11 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 195 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 204
+[14-May-2018 06:13:11 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 207
+[14-May-2018 06:13:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(224): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', 'Company Details...', '1497290932', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(195): loadUssdSender('1497290932', 'Company Details...')
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 06:16:19 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[14-May-2018 06:16:26 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 195 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 204
+[14-May-2018 06:16:26 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 207
+[14-May-2018 06:16:26 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(224): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', 'Company Details...', '218001144', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(195): loadUssdSender('218001144', 'Company Details...')
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 06:19:38 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[14-May-2018 06:19:45 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 195 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 204
+[14-May-2018 06:19:45 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 207
+[14-May-2018 06:19:45 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(224): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', 'Company Details...', '218005183', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(195): loadUssdSender('218005183', 'Company Details...')
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 06:20:04 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[14-May-2018 06:20:11 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 195 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 204
+[14-May-2018 06:20:11 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 207
+[14-May-2018 06:20:11 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(224): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', 'Company Details...', '1497297046', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(195): loadUssdSender('1497297046', 'Company Details...')
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 06:22:35 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[14-May-2018 06:22:41 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 195 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 204
+[14-May-2018 06:22:41 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 207
+[14-May-2018 06:22:41 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(224): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', 'Company Details...', '218008808', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(195): loadUssdSender('218008808', 'Company Details...')
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+
+  //
+[14-May-2018 06:25:46 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[14-May-2018 06:25:58 UTC] PHP Warning:  Missing argument 3 for loadUssdSender(), called in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 195 and defined in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 204
+[14-May-2018 06:25:58 UTC] PHP Notice:  Undefined variable: address in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 207
+[14-May-2018 06:25:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'address should a string or a array of strings' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php:36
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(224): MtUssdSender->ussd('APP_044499', '9f046fba46a1b13...', '1.0', 'Company Details...', '1497302237', 'mt-cont', NULL, '440', '5')
+#1 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(195): loadUssdSender('1497302237', 'Company Details...')
+#2 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MtUssdSender.php on line 36
+[14-May-2018 06:36:09 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[14-May-2018 16:09:05 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[15-May-2018 02:55:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[15-May-2018 18:32:55 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[16-May-2018 02:55:06 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[16-May-2018 03:11:21 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[16-May-2018 09:35:13 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[16-May-2018 09:36:09 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[16-May-2018 09:36:50 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[16-May-2018 09:37:10 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[16-May-2018 09:45:06 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[16-May-2018 09:47:33 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[16-May-2018 09:48:05 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[16-May-2018 09:48:23 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[16-May-2018 10:00:26 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[16-May-2018 15:09:10 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php:45
+Stack trace:
+#0 /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php(19): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/lib/MoUssdReceiver.php on line 45
+[03-Jun-2018 03:24:48 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 74
+[04-Jun-2018 10:58:47 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 70
+[04-Jun-2018 10:59:56 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 70
+[04-Jun-2018 11:01:22 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 70
+[04-Jun-2018 11:01:57 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 70
+[04-Jun-2018 11:03:20 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 71
+[04-Jun-2018 11:03:39 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 71
+[04-Jun-2018 11:05:42 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 71
+[04-Jun-2018 11:06:20 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 71
+[04-Jun-2018 11:19:26 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 70
+[04-Jun-2018 11:21:28 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 70
+[04-Jun-2018 12:03:24 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 70
+[04-Jun-2018 12:04:21 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 71
+[04-Jun-2018 12:25:25 UTC] PHP Notice:  Undefined index: menu-Opt in /media/apps/shanakawickramaarachchi0518/shanakawickramaarachchi0518Apps/ussd/SampleUssdApp.php on line 71
