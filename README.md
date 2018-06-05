@@ -18,11 +18,13 @@ you can use git clone method or direct download method to download the code
 ```
 ###  Make your first USSD Menu
 
-Error log and sms libraries are initiated in the begenning 
+Error log and USSD libraries are initiated in the begenning 
 
-If we go to loadUssdSender 
+If we go to loadUssdSender $encoding , $chargingAmount , $version can be defined on your preference.
+$password , $applicationId will be sent to the developer by the Ideamart Admins.
+
 ```sh
-	$password = "9f046fba46a1b136cd0a96c02562ca4b";
+    $password = "9f046fba46a1b136cd0a96c02562ca4b";
     $destinationAddress = $address;
     if ($responseMessage == "000") {
         $ussdOperation = "mt-fin";
