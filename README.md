@@ -24,15 +24,15 @@ If we go to loadUssdSender $encoding , $chargingAmount , $version can be defined
 $password , $applicationId will be sent to the developer by the Ideamart Admins.
 
 ```sh
-    $password = "9f046fba46a1b136cd0a96c02562ca4b";
+    $password = "XXXXXXXXXXXXXXXXXXXXXXXXXX";
     $destinationAddress = $address;
     if ($responseMessage == "000") {
         $ussdOperation = "mt-fin";
     } else {
         $ussdOperation = "mt-cont";
     }
-    $chargingAmount = "5";
-    $applicationId = "APP_044499";
+    $chargingAmount = "X";
+    $applicationId = "APP_XXXXXX";
     $encoding = "440";
     $version = "1.0";
 ```
