@@ -14,17 +14,27 @@ Check @pasindud [tutorial](https://www.youtube.com/watch?v=dk2C-UEKoL0)
 
 you can use git clone method or direct download method to download the code
 ```sh
-	$ git clone https://github.com/djsharox/AvengersInfinityWar-SMS-PHP.git
+	$ git clone https://github.com/djsharox/CompanyStructure-USSD-PHP.git
 ```
-### Send your first SMS
+###  Make your first USSD Menu
 
 Error log and sms libraries are initiated in the begenning 
 
+If we go to loadUssdSender 
 ```sh
-	$serverurl= "https://api.dialog.lk/sms/send";
-	$applicationId = "APP_XXXXXX";
-	$password= "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
+	$password = "9f046fba46a1b136cd0a96c02562ca4b";
+    $destinationAddress = $address;
+    if ($responseMessage == "000") {
+        $ussdOperation = "mt-fin";
+    } else {
+        $ussdOperation = "mt-cont";
+    }
+    $chargingAmount = "5";
+    $applicationId = "APP_044499";
+    $encoding = "440";
+    $version = "1.0";
 ```
+
 
 - **Server URL** :- Send service supports only POST HTTP requests. An application wishing to initiate an MT (Mobile Terminated – Delivery of messages from an Ideamart application to a mobile subscriber’s handset) SMS message should use this.
 - **Application Id** :- The developer will recieve application ID in provisioning
