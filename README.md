@@ -37,6 +37,33 @@ $password , $applicationId will be sent to the developer by the Ideamart Admins.
     $version = "1.0";
 ```
 
+MoUssdReceiver initialize the received message to a $receiver and session id stored in $receiverSessionId,finally $receiverSessionId is used to start a new session 
+
+```sh
+$receiver = new MoUssdReceiver();
+
+$receiverSessionId = $receiver->getSessionId();
+session_id($receiverSessionId);
+session_start();
+```
+Then $receiver calls follwing methods to capture data.
+
+```sh
+$content = $receiver->getMessage(); // get the message content
+$address = $receiver->getAddress(); // get the sender's address
+$requestId = $receiver->getRequestID(); // get the request ID
+$applicationId = $receiver->getApplicationId(); // get application ID
+$encoding = $receiver->getEncoding(); // get the encoding value
+$version = $receiver->getVersion(); // get the version
+$sessionId = $receiver->getSessionId(); // get the session ID;
+$ussdOperation = $receiver->getUssdOperation(); // get the ussd operation
+```
+
+
+
+
+
+
 
 - **Server URL** :- Send service supports only POST HTTP requests. An application wishing to initiate an MT (Mobile Terminated – Delivery of messages from an Ideamart application to a mobile subscriber’s handset) SMS message should use this.
 - **Application Id** :- The developer will recieve application ID in provisioning
