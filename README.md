@@ -84,29 +84,29 @@ $responseMsg = array(
 );
 ```
 
-
-- **Server URL** :- Send service supports only POST HTTP requests. An application wishing to initiate an MT (Mobile Terminated – Delivery of messages from an Ideamart application to a mobile subscriber’s handset) SMS message should use this.
-- **Application Id** :- The developer will recieve application ID in provisioning
-- **Password** :- The developer will recieve password in provisioning
-
-Try catch method is used to capture data , **SMSReceiver** initialize the received message to a **$receiver** 
-```sh
-	$receiver = new SMSReceiver(file_get_contents('php://input'));
-```
-Then **$receiver** calls **getMessage()** , **getAddress()** and **getRequested()** to capture data.
+use the switch statement to map the menu yoy defined in the array
 
 ```sh
-	$content = $receiver->getMessage();
-	$address = $receiver->getAddress();
-	$requestId = $receiver->getRequestID();
-	$applicationId = $receiver->getApplicationId();
+  switch ($_SESSION['menu-Opt']) {
+        case "main":
+            switch ($receiver->getMessage()) {
+                case "1":
+                    $menuName = "company";
+                    break;
+                case "2":
+                    $menuName = "products";
+                    break;
+                case "3":
+                    $menuName = "careers";
+                    break;
+                default:
+                    $menuName = "main";
+                    break;
+            }
+            $_SESSION['menu-Opt'] = $menuName; //Assign session menu name
+            break;
 ```
 
- **$sender** allocate the broadcasting message to **sendMessage()** 
-
-```sh
-	$sender->sendMessage($third.",your hidden marvel character is ".$mycharacter,$address);
-```
 
 ## Deployment
 - Uploading the built Php script to hosting space
