@@ -59,10 +59,30 @@ $sessionId = $receiver->getSessionId(); // get the session ID;
 $ussdOperation = $receiver->getUssdOperation(); // get the ussd operation
 ```
 
+define rhw main menu in the $responseMsg array
 
-
-
-
+```sh
+$responseMsg = array(
+    "main" => "1.Company
+                    2.Products
+                    3.Careers
+                    000.Exit",
+    "company" => "Company Details
+                    1.CEO
+                    2.Location
+                    3.Branches
+                    4.Contact
+                    999.Back",
+    "products" => "Products
+                    1.SDP
+                    2.Soltura
+                    999.Back",
+    "careers" => "Careers
+                    1.Software Engineer
+                    2.Project Manager
+                    999.Back"
+);
+```
 
 
 - **Server URL** :- Send service supports only POST HTTP requests. An application wishing to initiate an MT (Mobile Terminated – Delivery of messages from an Ideamart application to a mobile subscriber’s handset) SMS message should use this.
